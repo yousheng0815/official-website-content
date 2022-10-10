@@ -1,0 +1,13 @@
+{
+  "options": {
+    "category": [
+      { "id": "portfolio", "name": "Portfolio" },
+      { "id": "travel", "name": "Travel" }
+    ],
+    "tag": [
+      { "id": "food", "name": "Food" },
+      { "id": "travel", "name": "Travel" },
+      { "id": "design", "name": "Design" }
+    ]
+  }
+}

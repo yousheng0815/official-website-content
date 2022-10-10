@@ -1,0 +1,4 @@
+[
+  { "label": "Title", "id": "title", "type": "text", "indexed": true },
+  { "label": "Content", "id": "content", "type": "richtext" }
+]

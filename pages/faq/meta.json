@@ -1,0 +1,4 @@
+[
+  { "label": "Question", "id": "question", "type": "text", "indexed": true },
+  { "label": "Answer", "id": "answer", "type": "textarea", "indexed": true }
+]

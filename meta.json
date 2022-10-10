@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "id": "about",
+      "name": "關於我們",
+      "type": "page"
+    },
+    {
+      "id": "faq",
+      "name": "常見問答",
+      "type": "group"
+    },
+    {
+      "id": "blog",
+      "name": "部落格",
+      "type": "group"
+    }
+  ]
+}
